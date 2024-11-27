@@ -1,0 +1,30 @@
+.pagina1{
+color: rgb(226, 12, 66);
+background-color: rgba(25, 139, 2, 0.76);
+text-align: left;
+font-size: 55px;
+}
+.pagina2{
+    color: rgb(0, 35, 192);
+    background-color: rgba(4, 0, 243, 0.747);
+    text-align: left;
+    font-size: 55px;
+}
+.pagina3{
+    color: rgb(24, 24, 24);
+    background-color: rgba(202, 0, 0, 0.699);
+    text-align: left;
+    font-size: 55px;
+}
+.pagina4{
+    color: rgb(230, 61, 0);
+    background-color: rgba(255, 94, 0, 0.795);
+    text-align: left;
+    font-size: 55px;
+}
+.pagina5{
+    color: rgb(1, 1, 131);
+    background-color: rgba(71, 1, 129, 0.705);
+    text-align: left;
+    font-size: 55px;
+}
